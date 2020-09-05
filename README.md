@@ -14,7 +14,7 @@ the consistency field is a measure of how consistently you do a task on a 10 day
 The application provides you a Graphical User Interface to easily and quickly modify, maintain and measure your consistency levels.
 
 FIRST DISPLAY:
-![]()
+![](Consistency_GUI_first_screen.png)
 
 UPDATE DISPLAY:
-![]()
+![](Consistency_GUI_update_screen.png)
