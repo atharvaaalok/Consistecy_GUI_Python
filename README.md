@@ -1,4 +1,4 @@
-# Typing_Game_C
+# Consistency
 
 This application has been made to measure and give you feedbacks on your consistency.
 Consistency is at the root of mastery.
