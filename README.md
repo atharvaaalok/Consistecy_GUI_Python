@@ -16,5 +16,4 @@ The application provides you a Graphical User Interface to easily and quickly mo
 FIRST DISPLAY:
 ![](Consistency_GUI_first_screen.png)
 
-UPDATE DISPLAY:
-![](Consistency_GUI_update_screen.png)
+
